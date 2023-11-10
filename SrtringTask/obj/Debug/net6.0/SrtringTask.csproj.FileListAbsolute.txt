@@ -1,0 +1,14 @@
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\bin\Debug\net6.0\SrtringTask.exe
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\bin\Debug\net6.0\SrtringTask.deps.json
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\bin\Debug\net6.0\SrtringTask.runtimeconfig.json
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\bin\Debug\net6.0\SrtringTask.dll
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\bin\Debug\net6.0\SrtringTask.pdb
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\obj\Debug\net6.0\SrtringTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\obj\Debug\net6.0\SrtringTask.AssemblyInfoInputs.cache
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\obj\Debug\net6.0\SrtringTask.AssemblyInfo.cs
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\obj\Debug\net6.0\SrtringTask.csproj.CoreCompileInputs.cache
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\obj\Debug\net6.0\SrtringTask.dll
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\obj\Debug\net6.0\refint\SrtringTask.dll
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\obj\Debug\net6.0\SrtringTask.pdb
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\obj\Debug\net6.0\SrtringTask.genruntimeconfig.cache
+C:\Users\Feteli Isgenderov\source\repos\SrtringTask\SrtringTask\obj\Debug\net6.0\ref\SrtringTask.dll
